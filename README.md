@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=muratsahin.com&style=for-the-badge&url=https%3A%2F%2Fmuratsahin.dev)](https://muratsahin.dev)
 
-## I'm a soon to be father, aspiring developer and a loving husband.
+## I'm an aspiring fullstack developer.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
