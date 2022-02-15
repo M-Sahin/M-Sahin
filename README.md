@@ -1,13 +1,12 @@
-### Hoi, ik ben Murat. [website] 👋
+### Hoi, ik ben Murat. 👋
 
-[![Website](https://img.shields.io/website?label=muratsahin.com&style=for-the-badge&url=https%3A%2F%2Fmuratsahin.dev)](https://muratsahin.dev)
 
 ## I'm an aspiring fullstack developer.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and watch movies
+- ⚡ Fun fact: I love riding my motorcycle and Warhammer 40k.
 
 <br />
 
@@ -24,5 +23,5 @@
 <br />
 
 
-[website]: https://muratsahin.dev
+[website]: https://m-sahin.github.io/
 [linkedin]: https://www.linkedin.com/in/murat-sahin-70545987/
