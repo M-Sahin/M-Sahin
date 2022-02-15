@@ -1,6 +1,5 @@
 ### Hoi, ik ben Murat. 👋
-[website]: https://m-sahin.github.io/
-[linkedin]: https://www.linkedin.com/in/murat-sahin-70545987/
+
 
 
 ## I'm a fullstack developer specialising in .NET and C#.
@@ -9,6 +8,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love riding my motorcycle and Warhammer 40k.
+
+
 
 <br />
 
@@ -21,3 +22,5 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
 <br />
+[website]: https://m-sahin.github.io/
+[linkedin]: https://www.linkedin.com/in/murat-sahin-70545987/
