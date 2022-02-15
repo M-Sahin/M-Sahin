@@ -1,7 +1,7 @@
 ### Hoi, ik ben Murat. 👋
 
 
-## I'm an aspiring fullstack developer.
+## I'm a fullstack developer specialising in .NET and C#.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
