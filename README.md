@@ -2,7 +2,7 @@
 
 
 
-## I'm a fullstack developer specialising in .NET and C#.
+## I'm a fullstack developer specializing in .NET and C#.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
