@@ -1,4 +1,3 @@
-```markdown
 # Hi, welcome to my Github profile ! 👋
 
 Full‑stack developer | AI enthusiast | Lifelong learner
@@ -40,4 +39,3 @@ Collaboration on developer tools, mentoring, and interesting React / Node.js and
 ---
 
 Thanks for stopping by — feel free to say hi 👋
-```
