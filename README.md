@@ -6,7 +6,7 @@ Full‑stack developer | AI enthusiast | Lifelong learner
 [![Website](https://img.shields.io/badge/portfolio-website-blue?style=flat&logo=firefox)](https://msahin-dev.vercel.app/)
 ---
 
-I'm a passionate Medior .NET Engineer with over almost 5 years of experience building scalable web applications and enterprise solutions. My expertise lies in creating robust backend systems, implementing clean architecture patterns, and leading development teams to deliver high-quality software. I also have a great passion for building and designing clean and minimalistic front-end interfaces.
+I'm a passionate .NET Engineer with over almost 5 years of experience building scalable web applications and enterprise solutions. My expertise lies in creating robust backend systems, implementing clean architecture patterns, and leading development teams to deliver high-quality software. I also have a great passion for building and designing clean and minimalistic front-end interfaces.
 
 When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or mentoring aspiring developers. I believe in writing clean, maintainable code and fostering collaborative team environments where everyone can grow and succeed.
 ---
